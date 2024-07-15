@@ -18,4 +18,6 @@ Staged updated file in updated-event branch ![alt text](<stage updated events.ht
 
  Commit updated-events branch ![alt text](<commited updated events.html file.png>)
  Push updated-events branch ![alt text](<push the update-events file to GitHub repository.png>)
- 
+  
+Create pull request for updated-events branch ![alt text](<pull request for updated-events branch.png>)in GitHub![alt text](<pull request for updated-events branch2.png>) 
+Merge pull request ![alt text](<successfully merged pull request for updated-events branch.png>)

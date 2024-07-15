@@ -21,3 +21,6 @@ Staged updated file in updated-event branch ![alt text](<stage updated events.ht
   
 Create pull request for updated-events branch ![alt text](<pull request for updated-events branch.png>)in GitHub![alt text](<pull request for updated-events branch2.png>) 
 Merge pull request ![alt text](<successfully merged pull request for updated-events branch.png>)
+Stage, commit and pushed the updated readme file in updated-events branch![alt text](<Stage, commit and push the updated readme file.png>)
+created and merged the latest pull request for updated-branch into main branch in GitHub ![alt text](<successfully merged the latest pull request for updated-events branch.png>)
+pull request from main branch in GitHub into update-events branch in VS code ![alt text](<pull request from main branch.png>)

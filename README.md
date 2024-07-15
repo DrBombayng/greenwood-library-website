@@ -12,3 +12,10 @@ Stage book_reviews.html file![alt text](<Stage book_reviews.html file.png>)
 Push add-book-reviews branch to GitHub repository ![alt text](<Push add-book-reviews branch to GitHub repository.png>)
 create pull request for add-book-reviews branch ![alt text](<create pull request for second branch.png>)
 Merge pull request ![alt text](<merge pull request.png>)
+
+create update-events branch![alt text](<create update-events branch.png>)
+Staged updated file in updated-event branch ![alt text](<stage updated events.html file.png>)
+
+ Commit updated-events branch ![alt text](<commited updated events.html file.png>)
+ Push updated-events branch ![alt text](<push the update-events file to GitHub repository.png>)
+ 
